@@ -1,0 +1,27 @@
+
+.item {
+    border: 1px solid goldenrod;
+    margin-bottom: 50px;
+}
+
+
+.image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 250px;
+}
+
+.info {
+    padding: 10px;
+}
+
+.info h2{
+    margin-bottom: 5px;
+}
+
+.info p{
+    margin-bottom: 10px;
+}
+
